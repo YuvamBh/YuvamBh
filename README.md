@@ -7,7 +7,9 @@ I’m a Computer Science student who builds **full-stack SaaS products**, **auto
 - 🎯 Interested in: product engineering, scalable systems, automation, AI-enabled workflows
 
 <p align="center">
-  <a href = "[GitHub Streak](https://streak-stats.demolab.com?user=YuvamBh&theme=highcontrast&hide_border=true&short_numbers=true)](https://git.io/streak-stats)"></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=YuvamBh&theme=highcontrast&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ## 🚀 Featured Projects
