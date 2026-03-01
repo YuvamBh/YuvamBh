@@ -1,11 +1,11 @@
-# Hi, I’m Yuvam 👋
+# Hi, I’m Yuvam
 
-I’m a Computer Science student at ASU who builds **full-stack SaaS products**, **automation tools**, and **systems that ship**.
+I’m a Computer Science student who builds **full-stack SaaS products**, **automation tools**, and **systems that ship**.
 
-- 🔭 Currently building: **Alert SaaS** (monitoring/alerts) + **Sapling CRM**
+- 🔭 Currently building: **Alert SaaS** (monitoring/alerts) + **FashionDiscovery**
 - 🧰 Stack: **Next.js, TypeScript, Supabase/Postgres, Redis/Queues, Playwright, Stripe**
 - 🎯 Interested in: product engineering, scalable systems, automation, AI-enabled workflows
-- 📫 Reach me: (LinkedIn) • (Website)
+- 📫 Reach me: yuvambhargav.com • linkedin.com/in/yuvam-bh/
 
 ---
 
@@ -15,11 +15,6 @@ I’m a Computer Science student at ASU who builds **full-stack SaaS products**,
 Competitive monitoring + alerts platform (screenshots + demo coming)
 - Highlights: background jobs, monitoring pipelines, scalable DB design
 - Tech: Next.js, TS, Supabase, Redis/BullMQ, Playwright
-
-### 🌱 Sapling CRM
-CRM built for real workflows and fast iteration.
-- Highlights: authentication, role-based access, clean UI components
-- Tech: Next.js, TypeScript, Supabase/Postgres, Tailwind
 
 ### 🤖 AutoCheckout
 A browser automation tool for faster checkout flows.
@@ -41,11 +36,8 @@ Website + platform for a student org, focused on real usage + clean structure.
 ---
 
 ## 🔗 Links
-- Website: <your link>
-- LinkedIn: <your link>
+- Website: yuvambhargav.com
+- LinkedIn: linkedin.com/in/yuvam-bh/
 - Email: <your email>
 
----
 
-## 📈 Stats (optional)
-<!-- Add stats cards here if you want (see tools section below). -->
