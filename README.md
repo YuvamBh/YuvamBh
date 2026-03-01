@@ -5,7 +5,7 @@ I’m a Computer Science student who builds **full-stack SaaS products**, **auto
 - 🔭 Currently building: **Alert SaaS** (monitoring/alerts) + **FashionDiscovery**
 - 🧰 Stack: **Next.js, TypeScript, Supabase/Postgres, Redis/Queues, Playwright, Stripe**
 - 🎯 Interested in: product engineering, scalable systems, automation, AI-enabled workflows
-- 📫 Reach me: (yuvambhargav.com) • linkedin.com/in/yuvam-bh/
+- 📫 Reach me: yuvambhargav.com • linkedin.com/in/yuvam-bh/
 
 ---
 
@@ -38,6 +38,6 @@ Website + platform for a student org, focused on real usage + clean structure.
 ## 🔗 Links
 - Website: yuvambhargav.com
 - LinkedIn: linkedin.com/in/yuvam-bh/
-- Email: <your email>
+
 
 
