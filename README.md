@@ -8,6 +8,8 @@ I’m a Computer Science student who builds **full-stack SaaS products**, **auto
 - 📫 Reach me: yuvambhargav.com • linkedin.com/in/yuvam-bh/
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=YuvamBh&theme=onedark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+---
 
 ## 🚀 Featured Projects
 
