@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily (UTC)
+    - cron: "0 0 * * *" 
   workflow_dispatch:
 
 permissions:
@@ -18,16 +18,10 @@ jobs:
           token: ${{ secrets.METRICSTOKEN }}
           user: YuvamBh
           filename: github-metrics.svg
-
-          # Basic sections (clean + professional)
           base: header, activity, repositories
-
-          # Useful plugins (nice but not too cluttered)
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_lines: yes
           plugin_followup: yes
           plugin_followup_sections: repositories
-
-          # Looks cleaner
           config_display: large
