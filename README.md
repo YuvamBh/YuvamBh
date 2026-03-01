@@ -36,3 +36,21 @@ Website + platform for a student org, focused on real usage + clean structure.
 - Automation: scraping/monitoring/testing workflows
 - Writing readable, maintainable code
 
+## 📈 GitHub Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YuvamBh&show_icons=true&hide_title=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvamBh&layout=compact"
+    height="165"
+  />
+</p>
+
+---
+
+## 🧩 Metrics (auto-updated)
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" />
+</p>
