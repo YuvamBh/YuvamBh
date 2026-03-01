@@ -10,33 +10,25 @@ I’m a Computer Science student who builds **full-stack SaaS products**, **auto
 
 ## 🚀 Featured Projects
 
-### 🔔 Alert SaaS
+### Alert SaaS
 Competitive monitoring + alerts platform (screenshots + demo coming)
 - Highlights: background jobs, monitoring pipelines, scalable DB design
 - Tech: Next.js, TS, Supabase, Redis/BullMQ, Playwright
 
-### 🤖 AutoCheckout
+### AutoCheckout
 A browser automation tool for faster checkout flows.
 - Highlights: automation scripts + reliable repeatable setup
 - Tech: Node.js, Playwright
 
-### 🌐 GCN Website
+### GCN Website
 Website + platform for a student org, focused on real usage + clean structure.
 - Tech: modern web stack + structured repo setup
 
 ---
 
-## 🧠 What I’m good at
+## I’m good at
 - Building end-to-end products (UI → backend → database → deployment)
 - Designing clean data models + auth patterns
 - Automation: scraping/monitoring/testing workflows
 - Writing readable, maintainable code
-
----
-
-## 🔗 Links
-- Website: yuvambhargav.com
-- LinkedIn: linkedin.com/in/yuvam-bh/
-
-
 
