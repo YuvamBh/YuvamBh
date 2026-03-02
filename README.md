@@ -23,13 +23,12 @@ A browser automation tool for faster checkout flows.
 - Highlights: automation scripts + reliable repeatable setup
 - Tech: Node.js, Playwright
 
-### GCN Website
-Website + platform for a student org, focused on real usage + clean structure.
-- Tech: modern web stack + structured repo setup
-
 ---
 ## I’m good at
 - Building end-to-end products (UI → backend → database → deployment)
 - Designing clean data models + auth patterns
 - Automation: scraping/monitoring/testing workflows
 - Writing readable, maintainable code
+
+
+
