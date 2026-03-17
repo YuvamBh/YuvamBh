@@ -1,7 +1,7 @@
 # Hi, I’m Yuvam
 
 I’m a Computer Science student who builds **full-stack SaaS products**, **automation tools**, and **systems that ship**.
-- 🔭 Currently building: **Alert SaaS** (monitoring/alerts) + **FashionDiscovery**
+- 🔭 Currently building: **FashionDiscovery** (iOS/Android)
 - 🧰 Stack: **Next.js, TypeScript, Supabase/Postgres, Redis/Queues, Playwright, Stripe**
 - 🎯 Interested in: product engineering, scalable systems, automation, AI-enabled workflows
 
