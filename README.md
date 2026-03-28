@@ -18,6 +18,9 @@ Competitive monitoring + alerts platform (screenshots + demo coming)
 - Highlights: background jobs, monitoring pipelines, scalable DB design
 - Tech: Next.js, TS, Supabase, Redis/BullMQ, Playwright
 
+### Claude-club website
+- Anthropic-inspired Claude Club website for ASU CBC.
+
 ### AutoCheckout
 A browser automation tool for faster checkout flows.
 - Highlights: automation scripts + reliable repeatable setup
