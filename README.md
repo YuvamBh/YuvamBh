@@ -20,6 +20,7 @@ Competitive monitoring + alerts platform (screenshots + demo coming)
 
 ### Claude-club website
 - Anthropic-inspired Claude Club website for ASU CBC.
+- Built the application system for clubs hackathon!
 
 ### AutoCheckout
 A browser automation tool for faster checkout flows.
