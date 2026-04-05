@@ -4,11 +4,11 @@ I’m a Computer Science student who builds **full-stack SaaS products**, **auto
 - 🧰 Stack: **Next.js, TypeScript, Supabase/Postgres, Redis/Queues, Playwright, Stripe**
 - 🎯 Interested in: product engineering, scalable systems, automation, AI-enabled workflows
 
-<p align="center">
+<!--<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=YuvamBh&theme=highcontrast&hide_border=true&short_numbers=true" alt="GitHub Streak" />
   </a>
-</p>
+</p>-->
 
 ## 🚀 Featured Projects
 
